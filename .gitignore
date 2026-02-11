@@ -16,3 +16,6 @@ Thumbs.db
 
 # Jupyter
 .ipynb_checkpoints/
+
+#catboost
+catboost_info/
